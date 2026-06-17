@@ -10,6 +10,6 @@ plotly==5.18.0
 pillow==10.1.0
 pydantic==2.5.0
 bcrypt==4.1.1
-PyJWT==2.8.1
+PyJWT==2.6.0
 streamlit-option-menu==0.3.12
 streamlit-authenticator==0.2.3
